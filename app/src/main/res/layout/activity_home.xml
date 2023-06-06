@@ -1,0 +1,38 @@
+<!-- activity_home.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".HomeActivity">
+
+    <ImageButton
+        android:id="@+id/imageButtonMessage"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="-150dp"
+        android:layout_marginTop="-300dp"
+        app:srcCompat="@drawable/messages" />
+
+
+    <TextView
+        android:id="@+id/textViewUserEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:padding="16dp" />
+
+
+
+    <Button
+        android:id="@+id/buttonIniciarConversa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="10dp"
+       />
+
+</LinearLayout>

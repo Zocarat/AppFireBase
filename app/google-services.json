@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3407423757",
+    "firebase_url": "https://testenuvemandroid-default-rtdb.firebaseio.com",
+    "project_id": "testenuvemandroid",
+    "storage_bucket": "testenuvemandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3407423757:android:abba813a91669330be2844",
+        "android_client_info": {
+          "package_name": "devandroid.zocarato.testefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3407423757-vh52pq82rs94iu5ehq05pav7st3bs4qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzBE8_NOP6FAPZN4azFEt82IVM3CFfL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3407423757-vh52pq82rs94iu5ehq05pav7st3bs4qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
